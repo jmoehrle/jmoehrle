@@ -3,7 +3,7 @@
 welcome to my GitHub profile.
 
 I'm a Physics master student at Heidelberg University in Germany. I'm currently finishing my master's thesis at the Max Planck Institute for Astronomy **(MPIA)** on the evolution of the **stellar mass Faber-Jackson relation** across cosmic time.  
-This site features my [**CV**](CV_Jakob_Moehrle.pdf), bachelor's thesis, preliminary master's thesis, and code I wrote for spectral and photometric analysis of galaxies using JWST NIRSpec as well as NIRCam data
+This site features my [**CV**](CV_Jakob_Moehrle.pdf), [**bachelor's thesis**](https://drive.google.com/file/d/1uZ9qICdc810_Rubrk45-UtCiBaQ_23Nn/view?usp=drive_link), preliminary master's thesis, and code I wrote for spectral and photometric analysis of galaxies using JWST NIRSpec as well as NIRCam data
 
 ---
 
