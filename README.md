@@ -7,7 +7,7 @@ Check out my [📄 CV (PDF)](CV_Jakob_Moehrle.pdf), [📄 bachelor's thesis (PDF
 
 ---
 
-### 🔭 Research Interests
+### 🔍 Research Interests
 - Galaxy evolution
 - Fitting JWST NIRSpec and NIRCam data
 - Star Clusters and their simulation
@@ -30,4 +30,4 @@ Check out my [📄 CV (PDF)](CV_Jakob_Moehrle.pdf), [📄 bachelor's thesis (PDF
 ### 🌍 Outside of my research
 
 When I'm not working with galaxies, I enjoy playing and watching football⚽, going for a run🏃‍♂️, and cooking or baking🍳 .  
-I'm also passionate about observing the nightsky on my own (if the weather allows!😬🌧️).
+I'm also passionate about observing the nightsky on my own 🔭(if the weather allows!😬🌧️).
