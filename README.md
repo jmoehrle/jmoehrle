@@ -29,5 +29,5 @@ Check out my [📄 CV (PDF)](CV_Jakob_Moehrle.pdf), [📄 bachelor's thesis (PDF
 
 ### 🌍 Outside of Astronomy
 
-When I'm not working with galaxies, I enjoy ⚽ playing and watching football, 🏃‍♂️ going for a run, and 🍳 cooking and baking.  
+When I'm not working with galaxies, I enjoy playing and watching football⚽, going for a run🏃‍♂️, and cooking or baking🍳 .  
 I'm also passionate about .
