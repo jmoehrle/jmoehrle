@@ -3,7 +3,7 @@
 Welcome to my GitHub profile.
 
 I'm a **Physics master student** at **Heidelberg University** in Germany. I'm currently finishing my master's thesis at the **Max Planck Institute for Astronomy (MPIA)**, studying how **turbulence strength** and **stellar and baryonic mass fractions** in **galaxies** evolved across cosmic time.  
-Check out my [📄 CV (PDF)](CV_Jakob_Moehrle_2.pdf), [📄 bachelor's thesis (PDF)](https://drive.google.com/file/d/1uZ9qICdc810_Rubrk45-UtCiBaQ_23Nn/view?usp=drive_link), [📄 master's thesis (PDF)](https://drive.google.com/file/d/13tbE0fixCvtBpJ7-sqgwdNVcTlMXAoli/view?usp=sharing), and code I wrote for [spectral](https://github.com/jmoehrle/emission_line_fitting) analysis of galaxies using JWST NIRSpec data.
+Check out my [📄 CV (PDF)](CV_Jakob_Moehrle_2.pdf), [📄 bachelor's thesis (PDF)](https://drive.google.com/file/d/1uZ9qICdc810_Rubrk45-UtCiBaQ_23Nn/view?usp=drive_link), [📄 master's thesis (PDF)](https://drive.google.com/file/d/1Sv3sP2sycGr5ruvWrFsY0qt8TjkGkDI5/view?usp=drive_link), and code I wrote for [spectral](https://github.com/jmoehrle/emission_line_fitting) analysis of galaxies using JWST NIRSpec data.
 
 ---
 
